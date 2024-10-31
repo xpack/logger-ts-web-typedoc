@@ -18,7 +18,7 @@
   ],
   "navigationLinks": {
     "xPack": "https://xpack.github.io/",
-    "GitHub": "https://github.com/xpack/logger-ts/",
+    "GitHub": "https://github.com/xpack/logger-ts-web-typedoc/",
     "Org": "https://github.com/xpack/"
   },
   "out": "docs",

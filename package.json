@@ -55,7 +55,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xpack/logger-ts.git"
+    "url": "git+https://github.com/xpack/logger-ts-web-typedoc.git"
   },
   "keywords": [
     "cli",
@@ -78,9 +78,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xpack/logger-ts/issues"
+    "url": "https://github.com/xpack/logger-ts-web-typedoc/issues"
   },
-  "homepage": "https://xpack.github.io/logger-ts/",
+  "homepage": "https://xpack.github.io/logger-ts-web-typedoc/",
   "dependencies": {
     "@xpack/mock-console": "^1.0.0"
   },

@@ -1,6 +1,6 @@
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack/logger-ts)](https://github.com/xpack/logger-ts/blob/mater/package.json)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack/logger-ts-web-typedoc)](https://github.com/xpack/logger-ts-web-typedoc/blob/mater/package.json)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack/logger.svg)](https://www.npmjs.com/package/@xpack/logger)
-[![license](https://img.shields.io/github/license/xpack/logger-ts.svg)](https://github.com/xpack/logger-ts/blob/xpack/LICENSE)
+[![license](https://img.shields.io/github/license/xpack/logger-ts-web-typedoc.svg)](https://github.com/xpack/logger-ts-web-typedoc/blob/xpack/LICENSE)
 
 # A Node.js CommonJS/ES6 module with a generic console logger class
 
@@ -12,13 +12,13 @@ Note: Compatibility with legacy CommonJS is required until VS Code extensions
 will be updated to import ES6 modules.
 
 The open source project is hosted on GitHub as
-[xpack/logger-ts](https://github.com/xpack/logger-ts).
+[xpack/logger-ts-web-typedoc](https://github.com/xpack/logger-ts-web-typedoc).
 
 ## Maintainer & developer info
 
 This page documents how to use this module in an user application.
 For maintainer information, see the separate
-[README-MAINTAINER](https://github.com/xpack/logger-ts/blob/master/README-MAINTAINER.md)
+[README-MAINTAINER](https://github.com/xpack/logger-ts-web-typedoc/blob/master/README-MAINTAINER.md)
 page.
 
 ## Prerequisites
@@ -131,7 +131,7 @@ The following methods are available to log messages:
 For more details on the available class definitions, including all methods,
 accessors, properties, etc,
 please see the TypeDoc
-[reference pages](https://xpack.github.io/logger-ts).
+[reference pages](https://xpack.github.io/logger-ts-web-typedoc).
 
 ## Known problems
 
@@ -147,7 +147,7 @@ The main client for this module is the `xpm` CLI application.
 
 The module is tested
 with 100% coverage and CI tested on every push via GitHub
-[Actions](https://github.com/xpack/logger-ts/actions).
+[Actions](https://github.com/xpack/logger-ts-web-typedoc/actions).
 
 ## Compatibility notices
 
