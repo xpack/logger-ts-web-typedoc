@@ -4,6 +4,13 @@
 
 # A Node.js CommonJS/ES6 module with a generic console logger class
 
+---
+NOTE: the real project is
+[logger-ts](https://github.com/xpack/logger-ts/);
+this is a replica kept for historical reasons
+to document how the TypeDoc web looked.
+---
+
 This project provides a **TypeScript** Node.js **CommonJS**/**ES6** module
 with a re-entrant console logger suitable for REPL/server/multi-instance
 use cases.
