@@ -8,7 +8,7 @@
 NOTE: the real project is
 [logger-ts](https://github.com/xpack/logger-ts/);
 this is a replica kept for historical reasons
-to document how the TypeDoc web looked.
+to document how the TypeDoc web looked like.
 ---
 
 This project provides a **TypeScript** Node.js **CommonJS**/**ES6** module
